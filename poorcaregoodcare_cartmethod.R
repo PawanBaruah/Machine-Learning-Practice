@@ -1,4 +1,4 @@
-quality <- read.csv("https://storage.googleapis.com/dimensionless/Analytics/quality.csv")
+quality <- read.csv("quality.csv")
 
 summary(quality)
 #is.na(quality)
